@@ -32,8 +32,8 @@ IPaddress           4
 Port                4
 SeddAddress         6
 ExpAddress          7
-Clusters            9
 Flag                9
+Clusters            9
 Threats             9
 Family             17
 Time               87
