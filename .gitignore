@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Raw data: Kaggle dataset, not ours to redistribute -- see README for source link
+data/raw/
+data/processed/*.csv
+
+# Local IBM Quantum credentials, never commit
+qiskit_config.json
+.env
