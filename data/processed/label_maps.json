@@ -1,0 +1,75 @@
+{
+  "Protcol": {
+    "ICMP": 0,
+    "TCP": 1,
+    "UDP": 2
+  },
+  "Flag": {
+    "A": 0,
+    "AF": 1,
+    "AP": 2,
+    "APRSF": 3,
+    "APS": 4,
+    "APSF": 5,
+    "ARF": 6,
+    "ASF": 7,
+    "R": 8
+  },
+  "Family": {
+    "APT": 0,
+    "CryptXXX": 1,
+    "CryptoLocker": 2,
+    "CryptoLocker2015": 3,
+    "Cryptohitman": 4,
+    "DMALocker": 5,
+    "EDA2": 6,
+    "Flyper": 7,
+    "Globe": 8,
+    "Globev3": 9,
+    "JigSaw": 10,
+    "Locky": 11,
+    "NoobCrypt": 12,
+    "Razy": 13,
+    "SamSam": 14,
+    "TowerWeb": 15,
+    "WannaCry": 16
+  },
+  "SeddAddress": {
+    "17dcMo4V": 0,
+    "1AEoiHYZ": 1,
+    "1DA11mPS": 2,
+    "1GZkujBR": 3,
+    "1KZKcvx4": 4,
+    "1NKi9AK5": 5
+  },
+  "ExpAddress": {
+    "18e372GN": 0,
+    "1BonuSr7": 1,
+    "1CLag5cd": 2,
+    "1DiCeTjB": 3,
+    "1Lc7xTpP": 4,
+    "1SYSTEMQ": 5
+  },
+  "IPaddress": {
+    "A": 0,
+    "B": 1,
+    "C": 2,
+    "D": 3
+  },
+  "Threats": {
+    "Blacklist": 0,
+    "Botnet": 1,
+    "DoS": 2,
+    "NerisBotnet": 3,
+    "Port Scanning": 4,
+    "SSH": 5,
+    "Scan": 6,
+    "Spam": 7,
+    "UDP Scan": 8
+  },
+  "Prediction": {
+    "A": 0,
+    "S": 1,
+    "SS": 2
+  }
+}
